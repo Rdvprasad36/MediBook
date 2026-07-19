@@ -1,0 +1,6 @@
+{
+  "name": "MediBook",
+  "description": "A comprehensive Doctor Appointment Booking System featuring secure JWT auth, MVC architecture, document uploads, and dedicated portals for Patients, Doctors, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
